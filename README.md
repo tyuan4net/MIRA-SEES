@@ -39,6 +39,11 @@ Human, AI, and third-party interpretation
 
 **一套讓人、AI 與程式共同使用的時空語言。**
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Latest Release](https://img.shields.io/github/v/release/tyuan4net/MIRA-SEES?color=blue)](https://github.com/tyuan4net/MIRA-SEES/releases/latest)
+[![Format](https://img.shields.io/badge/Format-EPUB_%7C_PDF-orange)](https://github.com/tyuan4net/MIRA-SEES/releases/latest)
+[![Blog](https://img.shields.io/badge/Blog-Blogger-ff69b4?logo=blogger)](https://mirahumanatlas.blogspot.com/)
+
 MIRA-SEES 讓出生及事件的時空資訊更容易被手寫、討論、交換、驗證與計算。它區分行政時間、UTC、地方平太陽時、地方真太陽時，以及不同種類的地理資訊，同時保留原始紀錄的語意。
 
 一組正規化的出生資料，可以成為 Human Design、西洋與古典占星、印度占星／Jyotish、八字、紫微斗數、凱西占星、榮格占星及其他系統共用的時空錨點。各系統產生的結構化資料，未來可以與人生事件、觀察、標籤及關係連結，再由人、AI 或其他人撰寫的程式進行解讀。
