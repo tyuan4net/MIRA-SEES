@@ -4,6 +4,11 @@
 
 **A shared spacetime language for people, AI, and software.**
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Latest Release](https://img.shields.io/github/v/release/tyuan4net/MIRA-SEES?color=blue)](https://github.com/tyuan4net/MIRA-SEES/releases/latest)
+[![Format](https://img.shields.io/badge/Format-EPUB_%7C_PDF-orange)](https://github.com/tyuan4net/MIRA-SEES/releases/latest)
+[![Blog](https://img.shields.io/badge/Blog-Blogger-ff69b4?logo=blogger)](https://mirahumanatlas.blogspot.com/)
+
 MIRA-SEES makes birth and event spacetime information easier to write by hand, discuss, exchange, validate, and compute. It distinguishes civil time, UTC, local mean time, local solar time, and different kinds of geographic information without discarding the meaning of the original record.
 
 One normalized birth record can become the shared anchor for structured outputs from Human Design, Western and classical astrology, Hindu astrology and Jyotish, Bazi, Zi Wei Dou Shu, Cayce Astrology, Jungian Astrology, and other systems. Those outputs can later be connected with life events, observations, tags, and relationships, then interpreted by people, AI, or independently written software.
