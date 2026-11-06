@@ -1,4 +1,8 @@
 # MIRA Spacetime Expression and Exchange Standard (MIRA-SEES)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Latest Release](https://img.shields.io/github/v/release/tyuan4net/MIRA-SEES?color=blue)](https://github.com/tyuan4net/MIRA-SEES/releases/latest)
+[![Format](https://img.shields.io/badge/Format-EPUB_%7C_PDF-orange)](https://github.com/tyuan4net/MIRA-SEES/releases/latest)
+[![Blog](https://img.shields.io/badge/Blog-Blogger-ff69b4?logo=blogger)](https://mirahumanatlas.blogspot.com/)
 
 > A spacetime expression language that people can write, discuss, exchange, parse, and compute.
 
